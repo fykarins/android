@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IdnTravellers</string>
+
+    <string name="about">About</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="photo_content_description">Deskripsi gambar tempat wisata</string>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="search">Search</string>
+
+    <string name="travellers_name">Nama Tempat Wisata</string>
+    <string name="description">Deskripsi</string>
+    <string name="image_desc">Image Description</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_name">
+        <item>CANDI BOROBUDUR</item>
+        <item>GUNUNG SEMERU</item>
+        <item>KEI ISLAND</item>
+        <item>MANTAS POINT</item>
+        <item>CANDI PRAMBANAN</item>
+        <item>PURA ULUN</item>
+        <item>RAJA AMPAT</item>
+        <item>TANAH LOT</item>
+        <item>TUMPAK SEWU</item>
+        <item>WAKATOBI</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+            <![CDATA[
+            <p>Candi Borobudur merupakan salah satu warisan dunia UNESCO yang terletak di Magelang, Jawa Tengah. Dibangun pada abad ke-8 dan ke-9 Masehi pada masa Dinasti Syailendra, candi ini memiliki arsitektur yang megah dengan stupa-stupa besar dan relief yang menceritakan ajaran Buddha. Pemandangan indah di sekitar candi, terutama saat matahari terbit, menjadikannya destinasi populer bagi wisatawan lokal dan mancanegara.</p>
+            <br>
+            <p>Selain sebagai tempat wisata, Borobudur juga menjadi pusat kegiatan keagamaan, terutama bagi umat Buddha, yang setiap tahun merayakan Hari Waisak di sini. Pengunjung dapat menikmati keindahan alam di sekitar candi, seperti perbukitan Menoreh dan Gunung Merapi yang tampak dari kejauhan.</p>
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            <p>Gunung Semeru, gunung tertinggi di Pulau Jawa, terletak di perbatasan Kabupaten Lumajang dan Malang. Gunung berapi ini dikenal sebagai "atap Pulau Jawa" dengan ketinggian 3.676 meter di atas permukaan laut. Pendaki sering menjadikan Ranu Kumbolo, sebuah danau cantik di tengah jalur pendakian, sebagai tempat beristirahat dan menikmati keindahan alam yang memukau.</p>
+            <br>
+            <p>Puncak Mahameru adalah tujuan akhir bagi pendaki yang berani menantang fisik dan mental mereka. Pemandangan dari puncak menawarkan lanskap menakjubkan dan kawah Jonggring Saloka yang aktif. Mendaki Gunung Semeru merupakan pengalaman yang mengesankan bagi pencinta alam dan petualangan.</p>
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            <p>Kepulauan Kei, yang terletak di Maluku Tenggara, terkenal dengan pantainya yang berpasir putih lembut dan air laut yang jernih. Salah satu pantai terindah di sini adalah Pantai Ngurbloat, yang bahkan disebut sebagai salah satu pantai dengan pasir terhalus di dunia. Kei Island menawarkan ketenangan dan keindahan alam yang masih asri, jauh dari keramaian turis.</p>
+            <br>
+            <p>Pulau ini juga kaya akan budaya dan sejarah, dengan pengaruh Islam, Kristen, dan adat lokal yang hidup berdampingan. Pengunjung dapat menjelajahi berbagai pulau kecil di sekitarnya, melakukan snorkeling di perairan jernih, atau menikmati keramahan penduduk setempat yang masih kental dengan tradisi.</p>
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            <p>Manta Point, terletak di Nusa Penida, Bali, merupakan salah satu destinasi terbaik untuk melihat pari manta secara langsung di habitat aslinya. Dengan air yang jernih dan arus laut yang tenang, Manta Point adalah surga bagi para penyelam yang ingin berenang bersama makhluk laut raksasa namun ramah ini. Pari manta sering kali muncul dalam kelompok besar, memberikan pengalaman yang tak terlupakan bagi para penyelam.</p>
+            <br>
+            <p>Selain pari manta, Manta Point juga menawarkan keindahan bawah laut yang memukau dengan terumbu karang dan berbagai spesies ikan tropis. Destinasi ini ideal bagi mereka yang mencintai petualangan bawah laut, baik penyelam pemula maupun yang sudah berpengalaman.</p>
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            <p>Candi Prambanan merupakan kompleks candi Hindu terbesar di Indonesia yang terletak di perbatasan Yogyakarta dan Jawa Tengah. Dibangun pada abad ke-9, candi ini didedikasikan untuk Trimurti: Brahma, Wisnu, dan Siwa. Candi Prambanan dikenal karena arsitektur yang megah dengan relief yang menceritakan kisah Ramayana dan Mahabharata.</p>
+            <br>
+            <p>Pada malam hari, Candi Prambanan menjadi latar spektakuler untuk pertunjukan Ramayana Ballet, sebuah pertunjukan tari yang mengisahkan cerita epik Ramayana. Keindahan dan kemegahan candi ini menjadikannya salah satu situs wisata budaya yang paling sering dikunjungi di Indonesia.</p>
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            <p>Pura Ulun Danu Bratan adalah pura ikonik yang terletak di tepi Danau Bratan di Bedugul, Bali. Pura ini didedikasikan untuk Dewi Danu, dewi air, dan memiliki latar yang sangat menakjubkan dengan pegunungan yang hijau dan air danau yang tenang, menciptakan suasana spiritual dan damai. Pemandangan pura yang seolah mengapung di atas air menambah pesona tempat ini.</p>
+            <br>
+            <p>Pura Ulun Danu Bratan juga menjadi pusat kegiatan spiritual dan budaya bagi masyarakat setempat. Selain menjadi destinasi wisata populer, pura ini sering dikunjungi oleh umat Hindu yang ingin berdoa dan mempersembahkan sesajen untuk menghormati Dewi Danu.</p>
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            <p>Raja Ampat, yang terletak di Papua Barat, dikenal sebagai surga bagi para penyelam dan pecinta alam bawah laut. Dengan lebih dari 1.500 pulau kecil, atol, dan laguna, Raja Ampat menawarkan pemandangan yang luar biasa serta keanekaragaman hayati laut yang sangat kaya. Di sini, pengunjung dapat menikmati snorkeling atau diving untuk melihat terumbu karang yang indah dan berbagai spesies ikan tropis.</p>
+            <br>
+            <p>Selain keindahan bawah lautnya, Raja Ampat juga menawarkan pemandangan daratan yang tak kalah memukau dengan hutan hujan tropis, bukit-bukit karst, dan pantai-pantai berpasir putih. Raja Ampat merupakan destinasi impian bagi mereka yang mencari keindahan alam yang masih alami dan belum banyak tersentuh.</p>
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            <p>Tanah Lot merupakan pura yang sangat terkenal di Bali, terletak di atas batu karang besar yang menjorok ke laut. Pemandangan sunset di Tanah Lot adalah salah satu yang paling indah dan menjadi daya tarik utama wisatawan. Ketika air laut pasang, pura ini tampak seolah mengapung di atas air, menciptakan suasana mistis yang mengesankan.</p>
+            <br>
+            <p>Selain keindahan alamnya, Tanah Lot juga merupakan tempat penting bagi upacara keagamaan umat Hindu di Bali. Wisatawan yang berkunjung dapat merasakan kesejukan spiritual sambil menikmati keunikan arsitektur pura yang menyatu dengan alam.</p>
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            <p>Tumpak Sewu adalah air terjun spektakuler yang terletak di perbatasan Kabupaten Lumajang dan Malang, Jawa Timur. Air terjun ini sering dijuluki "Niagara dari Indonesia" karena bentuknya yang melebar seperti tirai dengan ketinggian sekitar 120 meter. Pengunjung bisa menikmati pemandangan dari atas atau turun ke dasar air terjun untuk merasakan keindahan alam dari dekat.</p>
+            <br>
+            <p>Di sekitar Tumpak Sewu, terdapat juga beberapa destinasi wisata alam lainnya seperti Goa Tetes dan perkebunan teh yang menawarkan suasana segar dan pemandangan alam yang hijau. Bagi pencinta petualangan, Tumpak Sewu adalah destinasi yang wajib dikunjungi.</p>
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            <p>Wakatobi adalah sebuah kepulauan di Sulawesi Tenggara yang terkenal sebagai salah satu destinasi diving terbaik di dunia. Terumbu karang yang memukau dan keanekaragaman hayati lautnya menarik banyak penyelam dari seluruh dunia. Taman Nasional Wakatobi meliputi lebih dari 900.000 hektar, menjadikannya tempat ideal untuk eksplorasi bawah laut.</p>
+            <br>
+            <p>Selain diving, pengunjung juga dapat menikmati kehidupan lokal di desa-desa tradisional, dengan kebudayaan dan kearifan lokal yang masih terjaga. Wakatobi adalah destinasi yang sempurna bagi mereka yang mencari ketenangan dan keindahan alam yang luar biasa.</p>
+            ]]>
+        </item>
+    </string-array>
+
+    <string-array name="data_short_description">
+        <item>Candi Borobudur adalah salah satu warisan dunia UNESCO dengan arsitektur Buddha megah di Jawa Tengah.</item>
+        <item>Gunung Semeru, gunung tertinggi di Jawa, menawarkan pengalaman pendakian dan pemandangan alam yang menakjubkan.</item>
+        <item>Kei Island terkenal dengan pantainya yang berpasir putih lembut dan perairan jernih di Maluku Tenggara.</item>
+        <item>Manta Point di Nusa Penida adalah tempat penyelaman yang populer untuk melihat pari manta di habitat aslinya.</item>
+        <item>Candi Prambanan adalah candi Hindu terbesar di Indonesia dengan arsitektur yang mengagumkan.</item>
+        <item>Pura Ulun Danu Bratan di Bali adalah pura yang menakjubkan dengan latar Danau Bratan yang indah.</item>
+        <item>Raja Ampat di Papua Barat terkenal dengan keanekaragaman hayati laut dan terumbu karang yang mempesona.</item>
+        <item>Tanah Lot di Bali menawarkan pemandangan pura yang ikonik di atas batu karang dengan panorama matahari terbenam.</item>
+        <item>Tumpak Sewu, air terjun megah di Jawa Timur, terkenal dengan keindahan alamnya yang memukau.</item>
+        <item>Wakatobi di Sulawesi Tenggara merupakan surga bagi penyelam dengan terumbu karang yang spektakuler.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/borobudur</item>
+        <item>@drawable/gunung_semeru</item>
+        <item>@drawable/kei_island</item>
+        <item>@drawable/mantas_point</item>
+        <item>@drawable/prambanan</item>
+        <item>@drawable/pura_ulun</item>
+        <item>@drawable/raja_ampat</item>
+        <item>@drawable/tanah_lot</item>
+        <item>@drawable/wakatobi</item>
+    </integer-array>
+</resources>

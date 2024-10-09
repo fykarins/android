@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style
+        name="Base.Theme.IdnTravellers" parent="Theme.Material3.DayNight">
+    </style>
+    <style name="Theme.IdnTravellers" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
